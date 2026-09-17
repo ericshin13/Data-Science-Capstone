@@ -6,4 +6,8 @@ Throughout the project, our team met with the client on a bi-weekly basis to pre
 
 **Group Collaborators: Zach Stabrowski, Darien Geyen, Jack Bremer, Nicole Hernandez, Stephen Jewell, Eric Shin**
 
+**NDA Notice**
+
+This project was completed as part of a real-world client engagement and is subject to a non-disclosure agreement. No client data, source code, analyses, results, reports, presentations, or other project work products are included in this repository.
+
 ## Technology Used: R Programming Language, Google Slides, Google Docs
